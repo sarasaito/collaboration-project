@@ -2,6 +2,12 @@
 
 This is a sample for the webinar on GitHub collaboration and workflows.
 
-## Contributors
+## Repository Owner
 
 * @githubstudent
+
+## Contributors
+
+* @jordanmcullough
+* @githubteacher
+* @brntbeer
