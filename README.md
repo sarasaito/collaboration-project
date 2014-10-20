@@ -1,4 +1,4 @@
-collaboration-project
-=====================
+# Collaboration Example Repository
 
-A sample for the webinar on GitHub collaboration and workflows
+This is a sample for the webinar on GitHub collaboration and workflows.
+
